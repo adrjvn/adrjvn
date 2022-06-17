@@ -1,1 +1,1 @@
-![](https://discord-readme-badge.vercel.app/api?id=292397670918651905)
+![](https://dcbadge.vercel.app/api/shield/292397670918651905)
